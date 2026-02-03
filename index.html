@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Happy Valentine's day Suhana — daily surprises made with love 💖" />
+  <title>Happy Valentine's Suhana 💖</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Romantic + fun background orbs (main view) -->
+  <div class="bg-romantic" aria-hidden="true">
+    <span class="float-orb"></span>
+    <span class="float-orb"></span>
+    <span class="float-orb"></span>
+    <span class="float-orb"></span>
+    <span class="float-orb"></span>
+    <span class="float-orb"></span>
+    <span class="float-orb"></span>
+    <span class="float-orb"></span>
+    <span class="float-heart">💕</span>
+    <span class="float-heart">💖</span>
+    <span class="float-heart">🌸</span>
+  </div>
+
+  <div id="heart-entry" role="status" aria-live="polite" aria-label="Loading animation">
+    <div class="entry-bg-decor" aria-hidden="true">
+      <span class="entry-orb"></span>
+      <span class="entry-orb"></span>
+      <span class="entry-orb"></span>
+      <span class="entry-orb"></span>
+      <span class="entry-orb"></span>
+      <span class="entry-heart">💕</span>
+      <span class="entry-heart">💖</span>
+    </div>
+    <div class="heart-entry-text" aria-hidden="true">For Suhana 💕</div>
+    <div class="heart-3d" aria-hidden="true">❤️</div>
+  </div>
+
+  <div class="card" role="main" aria-label="Valentine's Week for Suhana">
+    <p class="greeting" aria-hidden="true">Suhana, this week is for you 💖</p>
+    <h1 id="day-name" aria-live="polite">Valentine's Week 💖</h1>
+    <p id="task" aria-live="polite">Something special is coming…</p>
+    <p id="secret" aria-live="polite"></p>
+    <p id="countdown" aria-live="polite" aria-atomic="true"></p>
+    
+    <div class="card-actions" style="margin-top: 20px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+      <button id="share-btn" class="action-btn" aria-label="Share this page" title="Share">
+        <span aria-hidden="true">📤</span> Share
+      </button>
+      <button id="refresh-btn" class="action-btn" aria-label="Refresh countdown" title="Refresh">
+        <span aria-hidden="true">🔄</span> Refresh
+      </button>
+    </div>
+    
+    <button id="love-note-btn" class="love-note-btn" aria-label="Open your love note" title="Tap for a surprise">
+      💌 Open your love note
+    </button>
+    <p class="footer-text" style="margin-top: 15px; font-size: 0.75rem; opacity: 0.6;">
+      Made for Suhana, with love 💘
+    </p>
+    <!-- <a href="day-previews/index.html" class="preview-all-link" style="display: block; margin-top: 8px; font-size: 0.8rem; color: var(--primary-color); text-decoration: none;">Preview all days →</a> -->
+  </div>
+
+  <!-- Surprise love note overlay -->
+  <div id="surprise-overlay" class="surprise-overlay" role="dialog" aria-label="Love note" aria-hidden="true">
+    <div class="surprise-content">
+      <button id="close-surprise" class="close-surprise" aria-label="Close">×</button>
+      <p id="surprise-message" class="surprise-message"></p>
+    </div>
+  </div>
+
+  <div id="loading-indicator" class="loading-indicator" aria-hidden="true">
+    <div class="spinner"></div>
+  </div>
+
+  <div id="final-reveal" class="surprise-overlay">
+    <div class="surprise-content">
+      <button id="close-final" class="close-surprise">×</button>
+      <h2>For You ❤️</h2>
+      <p class="surprise-message">
+        Loving you isn’t something I do.<br>
+        It’s something I am.<br><br>
+        And if I get to choose one person, one lifetime, one love…<br>
+        It will always be you.
+      </p>
+    </div>
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
