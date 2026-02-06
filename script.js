@@ -5,11 +5,7 @@ const days = {
   7: {
     name: "Rose Day 🌹",
     task: "Suhana, a rose is waiting for you today ❤️",
-    secret: "Today I wanted to give you a rose…
-then I realized how silly that was.
-How can I gift a flower
-to someone who already carries spring in their smile?
-Happy Rose Day, my beautiful miracle 🌹✨",
+    secret: "Today I wanted to give you a rose…then I realized how silly that was. How can I gift a flower to someone who already carries spring in their smile? Happy Rose Day, my beautiful miracle 🌹✨",
     loveNote: "Every rose reminds me of you. Today and every day, you're my favorite bloom. 🌹"
   },
   8: {
