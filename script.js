@@ -9,10 +9,10 @@ const days = {
     loveNote: "Every rose reminds me of you. Today and every day, you're my favorite bloom. 🌹"
   },
   8: {
-    name: "Propose Day 💍",
-    task: "Suhana, someone has something special to say to you 💕",
-    secret: "Write a handwritten note — from the heart",
-    loveNote: "I don't need a special day to tell you — you're the one I choose, every single day. 💍"
+  name: "Propose Day 💍",
+  task: "Suhana… someone has something truly special to tell you today 💕",
+  secret: "Take a deep breath, this comes straight from my heart 💖",
+  loveNote: "I don’t need a special day to tell you this… I choose you in every smile, every argument, every quiet moment, and every dream. You’re not just someone I love, you’re someone I want to build a life with. So here’s my simple proposal: walk with me through all the ups and downs, laugh with me on the good days, hold my hand on the hard ones, and let’s grow together. I don’t promise perfection, but I promise loyalty, effort, and a forever kind of love. Stay with me… today, tomorrow, and always 💍❤️"
   },
   9: {
     name: "Chocolate Day 🍫",
