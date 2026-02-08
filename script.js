@@ -13,13 +13,13 @@ const days = {
   task: "Suhana… someone has something truly special to tell you today 💕",
   secret: "Take a deep breath, this comes straight from my heart 💖",
   loveNote: "I don’t need a special day to tell you this… I choose you in every smile, every argument, every quiet moment, and every dream. You’re not just someone I love, you’re someone I want to build a life with. So here’s my simple proposal: walk with me through all the ups and downs, laugh with me on the good days, hold my hand on the hard ones, and let’s grow together. I don’t promise perfection, but I promise loyalty, effort, and a forever kind of love. Stay with me… today, tomorrow, and always 💍❤️"
-  },
-  9: {
-    name: "Chocolate Day 🍫",
-    task: "Suhana, life tastes sweeter with you 😋",
-    secret: "Get her favorite chocolate — sweet for my sweet",
-    loveNote: "You're sweeter than any chocolate. Thanks for making every day a little sweeter. 🍫"
-  },
+  },
+   9: {
+  name: "Chocolate Day 🍫",
+  task: "Suhana… today comes with something sweet, just like you 💕",
+  secret: "Warning: this message may cause smiles and butterflies 💖",
+  loveNote: "They say chocolates make people happy… but you do that without even trying. Every little moment with you feels sweeter, warmer, softer. Just like chocolate melts slowly, you’ve melted into my heart in ways I can’t explain. Thank you for being my comfort on hard days, my smile on ordinary days, and my favorite thought every day. If I could, I’d give you all the chocolates in the world… but instead, I give you my heart, wrapped in love and sealed with forever 🍫❤️"
+}
   10: {
     name: "Teddy Day 🧸",
     task: "Suhana, something cuddly is thinking of you 🥰",
