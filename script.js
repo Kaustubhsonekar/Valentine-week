@@ -19,7 +19,7 @@ const days = {
   task: "Suhana… today comes with something sweet, just like you 💕",
   secret: "Warning: this message may cause smiles and butterflies 💖",
   loveNote: "They say chocolates make people happy… but you do that without even trying. Every little moment with you feels sweeter, warmer, softer. Just like chocolate melts slowly, you’ve melted into my heart in ways I can’t explain. Thank you for being my comfort on hard days, my smile on ordinary days, and my favorite thought every day. If I could, I’d give you all the chocolates in the world… but instead, I give you my heart, wrapped in love and sealed with forever 🍫❤️"
-}
+},
   10: {
     name: "Teddy Day 🧸",
     task: "Suhana, something cuddly is thinking of you 🥰",
