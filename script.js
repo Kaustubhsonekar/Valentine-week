@@ -51,9 +51,18 @@ const days = {
 
     <br><br>
 
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3g5b2hjNGV2ZGRweG9jdDBta2sxcHJjZ3pydmNvM2x6aHZic2FseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2CGLm2BRDOXCe1uKz/giphy.gif"
-         style="width:180px;border-radius:15px;margin-top:10px;"
-         alt="Cute Kiss">
+    loveNote: `
+They say a kiss can say a thousand words… so here’s mine. Every time I think of you, my heart leans closer.
+I don’t just want kisses on your lips, I want kisses on your worries, your fears, and your tired days.
+I want to be the person who makes you feel safe, loved, and chosen.
+So here’s my Kiss Day promise: every kiss from me comes with loyalty, warmth, and a forever kind of care.
+Come here… this one’s filled with love 💋❤️
+
+<br><br>
+
+<img src="https://media.tenor.com/9Q5wRk3uFZkAAAAC/kiss-cute.gif"
+     style="width:180px;border-radius:15px;margin-top:10px;display:block;margin-left:auto;margin-right:auto;"
+     alt="Cute Kiss">
   `
 },
   14: {
