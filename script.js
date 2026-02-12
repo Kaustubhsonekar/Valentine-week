@@ -51,7 +51,7 @@ const days = {
 
     <br><br>
 
-    <img src="https://i.imgur.com/3X9QZ6L.gif"
+    <img src= "https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydm4wMWtpY2dla2N5ZHMzN3YyZzZ4ZWhyYXhoODZncXpsNWx3bWtqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qKQQUKSSbWBkO2V3KX/giphy.gif"
          style="width:180px;border-radius:15px;margin-top:10px;"
          alt="Cute Kiss">
   `
