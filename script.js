@@ -42,7 +42,19 @@ const days = {
   name: "Kiss Day 💋",
   task: "Suhana… come a little closer, this one is just for you 💕",
   secret: "Close your eyes and feel this moment 💖",
-  loveNote: "They say a kiss can say a thousand words… so here’s mine. Every time I think of you, my heart leans closer. I don’t just want kisses on your lips, I want kisses on your worries, your fears, and your tired days. I want to be the person who makes you feel safe, loved, and chosen. So here’s my Kiss Day promise: every kiss from me comes with loyalty, warmth, and a forever kind of care. Come here… this one’s filled with love 💋❤️"
+  loveNote: `
+    They say a kiss can say a thousand words… so here’s mine. Every time I think of you, my heart leans closer.
+    I don’t just want kisses on your lips, I want kisses on your worries, your fears, and your tired days.
+    I want to be the person who makes you feel safe, loved, and chosen.
+    So here’s my Kiss Day promise: every kiss from me comes with loyalty, warmth, and a forever kind of care.
+    Come here… this one’s filled with love 💋❤️
+
+    <br><br>
+
+    <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif"
+         style="width:180px;border-radius:15px;margin-top:10px;"
+         alt="Cute Kiss">
+  `
 },
   14: {
     name: "Valentine's Day ❤️",
@@ -330,9 +342,8 @@ function getLoveNoteForToday() {
 
 function showSurprise(message) {
   if (!surpriseOverlay || !surpriseMessageEl) return;
-  surpriseMessageEl.textContent = message;
+  surpriseMessageEl.innerHTML = message;
   surpriseOverlay.classList.add("active");
-  surpriseOverlay.setAttribute("aria-hidden", "false");
 }
 
 function hideSurprise() {
