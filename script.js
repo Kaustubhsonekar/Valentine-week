@@ -39,11 +39,11 @@ const days = {
     loveNote: "Some days all we need is a long hug. Today's the day. I'm sending you the biggest one. 🤗"
   },
   13: {
-    name: "Kiss Day 💋",
-    task: "Suhana, seal it with love 💞",
-    secret: "Plan a sweet moment — just the two of you",
-    loveNote: "Every kiss with you feels like the first. Here's to many more. 💋"
-  },
+  name: "Kiss Day 💋",
+  task: "Suhana… come a little closer, this one is just for you 💕",
+  secret: "Close your eyes and feel this moment 💖",
+  loveNote: "They say a kiss can say a thousand words… so here’s mine. Every time I think of you, my heart leans closer. I don’t just want kisses on your lips, I want kisses on your worries, your fears, and your tired days. I want to be the person who makes you feel safe, loved, and chosen. So here’s my Kiss Day promise: every kiss from me comes with loyalty, warmth, and a forever kind of care. Come here… this one’s filled with love 💋❤️"
+},
   14: {
     name: "Valentine's Day ❤️",
     task: "Suhana, today is all about you and us 💕",
