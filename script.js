@@ -51,7 +51,7 @@ const days = {
 
     <br><br>
 
-    <img src= "https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3g5b2hjNGV2ZGRweG9jdDBta2sxcHJjZ3pydmNvM2x6aHZic2FseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2CGLm2BRDOXCe1uKz/giphy.gif"
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3g5b2hjNGV2ZGRweG9jdDBta2sxcHJjZ3pydmNvM2x6aHZic2FseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2CGLm2BRDOXCe1uKz/giphy.gif"
          style="width:180px;border-radius:15px;margin-top:10px;"
          alt="Cute Kiss">
   `
